@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">musesave</string>
+    <string name="button">Download</string>
+    <string name="editText">Enter the copied link</string>
+</resources>
